@@ -1,0 +1,2 @@
+# MajsoulAssistant
+majsoul helper
